@@ -1,0 +1,17 @@
+.Header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  background-color: #ffffff;
+}
+
+.HeaderTitle {
+  font-family: "Noto Serif";
+  color: #000000;
+  font-size: 24px;
+  font-weight: 400;
+  width: 455px;
+  text-align: center;
+}

@@ -1,0 +1,17 @@
+.NavCard {
+  width: 200px;
+  height: 200px;
+  color: #ffffff;
+  font-family: "Noto Serif";
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  background-size: cover;
+  background-position: center;
+}

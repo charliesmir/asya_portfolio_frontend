@@ -1,0 +1,19 @@
+.ListItemTwo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  font-family: "Noto Serif";
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.ListItemTwoDate {
+  font-size: 20px;
+  width: 200px;
+}
+
+.ListItemTwoDescription {
+  font-size: 14px;
+  width: 450px;
+  padding-top: 4px; /*positions text correctly both for one and two line descriptions */
+}

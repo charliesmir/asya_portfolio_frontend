@@ -1,0 +1,14 @@
+.HeaderButton {
+  height: 45px;
+  width: 150px;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "Noto Serif";
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
