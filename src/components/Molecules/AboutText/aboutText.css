@@ -1,0 +1,22 @@
+.AboutText {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.AboutTextImage {
+  width: 250px;
+  height: auto;
+  object-fit: fill;
+}
+
+.AboutTextContent {
+  font-family: "Noto Serif";
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  white-space: pre-line;
+  max-width: 625px;
+}
