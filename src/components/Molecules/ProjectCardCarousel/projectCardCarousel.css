@@ -1,0 +1,18 @@
+.ProjectCardsCarousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  max-width: 675px;
+}
+
+.ProjectCardsCarouselButtonPrev {
+  position: absolute;
+  left: 0;
+  transform: rotate(180deg);
+}
+
+.ProjectCardsCarouselButtonNext {
+  position: absolute;
+  right: 0;
+}
