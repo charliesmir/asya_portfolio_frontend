@@ -1,0 +1,31 @@
+.TitleSection {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 975px;
+}
+
+.TitleSectionImage {
+  width: 345px;
+  height: 460px;
+}
+
+.TitleSectionInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 250px;
+  font-family: "Noto Serif";
+  color: #000000;
+}
+
+.TitleSectionName {
+  font-size: 48px;
+  font-weight: 400;
+}
+
+.TitleSectionDescription {
+  font-size: 20px;
+  font-weight: 400;
+}
