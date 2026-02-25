@@ -6,6 +6,7 @@
   width: 800px;
   color: #ffffff;
   font-family: "Noto Serif";
+  padding-left: 20px; /* helps visually center the list on the page*/
 }
 
 .ListItemThreeDate {
