@@ -1,0 +1,27 @@
+.ProjectSection {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  padding: 90px 0;
+  width: 975px;
+}
+
+.ProjectSectionTitle {
+  font-family: "Noto Serif";
+  color: #000000;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  align-self: flex-start;
+}
+
+.ProjectSectionCards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  width: 650px;
+  align-self: center;
+}
