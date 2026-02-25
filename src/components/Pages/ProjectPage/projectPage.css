@@ -1,0 +1,21 @@
+.ProjectPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  font-family: "Noto Serif";
+}
+
+.ProjectPageTitle {
+  font-size: 36px;
+  font-weight: 400;
+  text-align: left;
+  width: 675px;
+}
+
+.ProjectPageDescription {
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  width: 675px;
+}
