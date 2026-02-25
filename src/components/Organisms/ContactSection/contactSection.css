@@ -1,0 +1,53 @@
+.ContactSection {
+  display: flex;
+  flex-direction: column;
+  font-family: "Noto Serif";
+  color: #000000;
+  width: 975px;
+}
+
+.ContactSectionTitle {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  align-self: flex-start;
+}
+
+.ContactSectionInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: center;
+  height: 500px;
+  width: 890px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.ContactSectionRight {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+}
+
+.ContactSectionLink {
+  color: #000000;
+  text-decoration: none;
+}
+
+.ContactSectionLink:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+.ContactSectionLink:active {
+  color: #000000;
+  text-decoration: none;
+}
+
+.ContactSectionImage {
+  width: 300px;
+  height: 241px;
+}
